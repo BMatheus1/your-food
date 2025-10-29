@@ -1,5 +1,5 @@
 import os
-
+#Github rules 
 restaurantes = [{'nome': 'Sushi', 'categoria': 'Japonesa', 'ativo': False},
                 {'nome': 'Pizzaria Johnson', 'categoria': 'Pizza', 'ativo': True},
                 {'nome': 'Cantina', 'categoria': 'Italiana', 'ativo': False},
