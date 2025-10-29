@@ -1,8 +1,9 @@
 import os
-
+ # Testando Git
 restaurantes = [{'nome': 'Sushi', 'categoria': 'Japonesa', 'ativo': False},
                 {'nome': 'Pizzaria Johnson', 'categoria': 'Pizza', 'ativo': True},
-                {'nome': 'Cantina', 'categoria': 'Italiana', 'ativo': False} ]
+                {'nome': 'Cantina', 'categoria': 'Italiana', 'ativo': False},
+                {'nome': 'Fasano', 'categoria': 'Italiana', 'ativo': False}]
 
 def exibir_nome_do_programa():
 
